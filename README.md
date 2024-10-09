@@ -5,7 +5,7 @@
 
 ### Frontend Setup (React App)
 
-1. Navigate to the client directory:
+1. Navigate to the src directory:
    ```bash
    cd src
     ```
